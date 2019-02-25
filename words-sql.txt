@@ -1,4 +1,4 @@
-INSERT INTO tableName (columnName) VALUES ('[');
+iNSERT INTO tableName (columnName) VALUES ('[');
 INSERT INTO tableName (columnName) VALUES ('[A');
 INSERT INTO tableName (columnName) VALUES ('[a');
 INSERT INTO tableName (columnName) VALUES ('[Aallayce]');
