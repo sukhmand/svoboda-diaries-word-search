@@ -8,6 +8,8 @@ Written in PHP and SQL.
 
 Styled using Bootstrap v4.2.1.
 
+words-sql.txt has been provided to quickly add all words to your SQL table.
+
 ## Usage
 
 ### Example Searches
