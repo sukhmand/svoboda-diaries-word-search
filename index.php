@@ -39,10 +39,10 @@ if (!$conn) {
 				<div class="form-group">
 				<input type="text" class="form-control" placeholder="word..." name="word">
 				</div>
-			</div>
-			<div class="col-4">
-				<button type="submit" class="btn btn-primary">Search</button>
-			</div>
+		</div>
+		<div class="col-4">
+			<button type="submit" class="btn btn-primary">Search</button>
+		</div>
 		</div>
 		</form>
 		<br>
