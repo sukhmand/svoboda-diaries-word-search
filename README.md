@@ -28,4 +28,4 @@ A tool for the [Svoboda Diaries](https://depts.washington.edu/svobodad/) transcr
 [@cha-ita-nya](https://github.com/cha-ita-nya) for hosting a version online.
 
 ## Copyright and license
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
